@@ -1,0 +1,10 @@
+# Neural Embeddings and NLP
+tensorflow==2.14.0  # Open-source platform for machine learning
+
+numpy==1.26.0       # Fundamental package for scientific computing in Python
+
+# Database
+psycopg2==2.9.8    # PostgreSQL adapter for Python, used with SQLAlchemy or Django ORM **note if issuses installing ** brew install postgresql in order to use pg_config which is needed for psycopg2
+
+# Vector Database for Fast Similarity Search
+faiss-cpu==1.7.4   # If you're not planning on using GPU. If you are, switch to faiss-gpu

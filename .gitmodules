@@ -1,0 +1,3 @@
+[submodule "DreamApp_TextEmbedding"]
+	path = DreamApp_TextEmbedding
+	url = git@github.com:FrancinaSimone/DreamApp_TextEmbedding.git
